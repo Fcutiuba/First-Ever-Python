@@ -1,0 +1,20 @@
+{
+  "files": {
+    "dont_look_here.txt": [
+      {
+        "id": "32454093-f18c-417e-89b1-6e919d3a9bf2",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "260add44-22b8-4e3d-aa03-86a42aee6c42",
+        "line": 1,
+        "version": 1155,
+        "index": 0
+      }
+    ]
+  }
+}
