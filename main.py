@@ -1,4 +1,4 @@
-'''
+
 word = input("Input a word: ")
 
 for char in range(len(word) - 1, -1, -1):
@@ -6,7 +6,7 @@ for char in range(len(word) - 1, -1, -1):
 print("\n")
 
 
-my_password = "G0r0h!!@#"
+my_password = "FunPassw0rd!@"
 
 def detector (password):
   val = False
@@ -39,7 +39,7 @@ def detector (password):
     print("The password is not safe and not valid")
 
 detector(my_password)
-'''
+
 
 
 
